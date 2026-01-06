@@ -47,6 +47,14 @@ The Online Event Booking Website is a full‑stack web application that allows u
 - Vercel (Free Tier)
 
 ---
+## 📂 Project Documentation
+All project-related documents such as **project presentation (PPT)**, and **design images** are available in the `project_documents` folder.
+
+📄 [View Project Documents](project_documents/)
+
+---
+## 🌍 Live Website
+🔗 **Live Demo:**  https://free-event-spark.lovable.app
 
 ## 🧩 System Architecture
 User → React Frontend → Supabase (Auth + Database + Storage) → Response
